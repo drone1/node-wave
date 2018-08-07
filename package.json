@@ -19,7 +19,7 @@
     "url": "git+https://github.com/trquoccuong/node-wave.git"
   },
   "dependencies": {
-    "canvas": "^1.6.2"
+    "canvas": "^1.6.11"
   },
   "devDependencies": {
     "mocha": "^3.2.0",
